@@ -1,0 +1,13 @@
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\bin\Debug\ImageColorService.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\bin\Debug\ImageColorService.pdb
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\bin\Debug\ImageColorService.ImageColorService.apk
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\bin\Debug\ImageColorService.ImageColorService-Signed.apk
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\obj\Debug\ImageColorService.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\obj\Debug\ImageColorService.pdb
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\obj\Debug\android\bin\ImageColorService.ImageColorService.apk
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\obj\Debug\res\values\strings.xml
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\obj\Debug\R.cs.flag
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\obj\Debug\uploadflags.txt
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\obj\Debug\ImageColorService.csprojResolveAssemblyReference.cache
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\bin\Debug\Models.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\ImageColorService\bin\Debug\Models.pdb

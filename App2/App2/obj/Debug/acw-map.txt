@@ -1,0 +1,16 @@
+App2.MainActivity, RandomShapes;md5a03ae0413863c064368245a7acf84aec.MainActivity
+App2.MainActivity, RandomShapes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a03ae0413863c064368245a7acf84aec.MainActivity
+App2.MainActivity;md5a03ae0413863c064368245a7acf84aec.MainActivity
+app2.MainActivity;md5a03ae0413863c064368245a7acf84aec.MainActivity
+App2.Views.CircleView, RandomShapes;md5e78cf0db341cd4f54d500882decf6dbf.CircleView
+App2.Views.CircleView, RandomShapes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e78cf0db341cd4f54d500882decf6dbf.CircleView
+App2.Views.CircleView;md5e78cf0db341cd4f54d500882decf6dbf.CircleView
+app2.views.CircleView;md5e78cf0db341cd4f54d500882decf6dbf.CircleView
+App2.Views.SquareView, RandomShapes;md5e78cf0db341cd4f54d500882decf6dbf.SquareView
+App2.Views.SquareView, RandomShapes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e78cf0db341cd4f54d500882decf6dbf.SquareView
+App2.Views.SquareView;md5e78cf0db341cd4f54d500882decf6dbf.SquareView
+app2.views.SquareView;md5e78cf0db341cd4f54d500882decf6dbf.SquareView
+App2.Gesture.GestureListener, RandomShapes;md5809f3b5db35f9766db382b548598fe54.GestureListener
+App2.Gesture.GestureListener, RandomShapes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5809f3b5db35f9766db382b548598fe54.GestureListener
+App2.Gesture.GestureListener;md5809f3b5db35f9766db382b548598fe54.GestureListener
+app2.gesture.GestureListener;md5809f3b5db35f9766db382b548598fe54.GestureListener

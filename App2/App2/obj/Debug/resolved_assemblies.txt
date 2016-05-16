@@ -1,0 +1,11 @@
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\RandomShapes.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\ImageColorServices.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\Models.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\Mono.Android.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\mscorlib.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\System.Core.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\System.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\System.Xml.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -11,3 +11,7 @@ D:\Xamarin Assignment\Xamarin Samples\App2\Models\obj\Debug\R.cs.flag
 D:\Xamarin Assignment\Xamarin Samples\App2\Models\obj\Debug\uploadflags.txt
 D:\Xamarin Assignment\Xamarin Samples\App2\Models\obj\Debug\Models.dll.mdb
 D:\Xamarin Assignment\Xamarin Samples\App2\Models\bin\Debug\Models.dll.mdb
+D:\Xamarin Assignment\Xamarin Samples\App2\Models\obj\Debug\Models.dll.mdb
+D:\Xamarin Assignment\Xamarin Samples\App2\Models\bin\Debug\Models.dll.mdb
+D:\Xamarin Assignment\Xamarin Samples\App2\Models\obj\Debug\Models.dll.mdb
+D:\Xamarin Assignment\Xamarin Samples\App2\Models\bin\Debug\Models.dll.mdb

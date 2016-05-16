@@ -15,5 +15,7 @@ D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\res\values\strings.xml
 D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\res\drawable\icon.png
 D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\R.cs.flag
 D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\uploadflags.txt
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\bin\Debug\ImageColorServices.dll.mdb
+D:\Xamarin Assignment\Xamarin Samples\App2\App2\bin\Debug\Models.dll.mdb
 D:\Xamarin Assignment\Xamarin Samples\App2\App2\obj\Debug\RandomShapes.dll.mdb
 D:\Xamarin Assignment\Xamarin Samples\App2\App2\bin\Debug\RandomShapes.dll.mdb
